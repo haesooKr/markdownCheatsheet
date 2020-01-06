@@ -96,9 +96,13 @@ You can create Horizontal Line with * or -
 ```
 ![Alt text](/path/to/img.jpg)
 ![Code](https://images.unsplash.com/photo-1516259762381-22954d7d3ad2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2132&q=80)
+
+<img src="directory" width="" height="" alt="">
 ```
 ![Alt text](/path/to/img.jpg)
 ![Code](https://images.unsplash.com/photo-1516259762381-22954d7d3ad2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2132&q=80)
+
+
 
 ## References
 
